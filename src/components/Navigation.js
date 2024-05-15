@@ -20,6 +20,7 @@ export default class Navigation extends Component {
             <li>
               <a href="#contact">Contact</a>
             </li>
+            <li></li>
           </ul>
         </nav>
       </div>
