@@ -5,6 +5,10 @@
   font-family: "Montserrat";
 }
 
+ul {
+  list-style: none;
+}
+
 nav {
   background: #2b2627;
   padding: 20px 0;
