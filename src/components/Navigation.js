@@ -15,7 +15,7 @@ export default class Navigation extends Component {
               <a href="#news">News</a>
             </li>
             <li>
-              <a href="#about">About</a>
+              <a href="#about">About Us</a>
             </li>
             <li>
               <a href="#contact">Contact</a>
