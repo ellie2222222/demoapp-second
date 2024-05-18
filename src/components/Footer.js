@@ -32,16 +32,16 @@ export default class Footer extends Component {
               <h4>follow us</h4>
               <div class="social-links">
                 <a href="#">
-                  <i class="fab fa-facebook-f"></i>
+                  <i className="fab fa-facebook-f"></i>
                 </a>
                 <a href="#">
-                  <i class="fab fa-twitter"></i>
+                  <i className="fab fa-twitter"></i>
                 </a>
                 <a href="#">
-                  <i class="fab fa-instagram"></i>
+                  <i className="fab fa-instagram"></i>
                 </a>
                 <a href="#">
-                  <i class="fab fa-linkedin-in"></i>
+                  <i className="fab fa-linkedin-in"></i>
                 </a>
               </div>
             </div>
